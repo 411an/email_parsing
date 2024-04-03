@@ -8,3 +8,6 @@ Ymail - for getting emails to mainmails table
 jobmails - taking messages to jobmails
 scores - counting scores to all_mails
 names - making final table mailinfo with names and categories
+
+That how it looks like
+![Alt текст](result.png)
